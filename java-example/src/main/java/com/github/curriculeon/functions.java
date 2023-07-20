@@ -6,9 +6,9 @@ public class functions {
 
 
     public static void main(String[] args) {
-        final firstProduct = multiply(10,5);
-        final secondProduct = multiply(11,6);
-        final thirdProduct = multiply("hello", "world");
+        final int firstProduct = multiply(10,5);
+        final int secondProduct = multiply(11,6);
+        final int thirdProduct = multiply("hello", "world");
 
 
         System.out.println(firstProduct);
