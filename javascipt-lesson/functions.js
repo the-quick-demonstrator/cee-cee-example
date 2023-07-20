@@ -1,3 +1,4 @@
+
 function multiply(x, y) {
     const product = x * y;
     return product;
@@ -11,4 +12,4 @@ const thirdProduct = multiply("hello", "world");
 
 console.log(firstProduct);
 console.log(secondProduct);
-console.log(thirdProduct);
+console.log(thirdProduct); 
